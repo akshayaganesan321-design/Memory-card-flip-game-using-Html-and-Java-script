@@ -1,0 +1,1 @@
+To design and develop an interactive Memory Card Flip Game Web Application using HTML, CSS, and JavaScript that includes a Level Selection page, Game Interface, and Score System, enabling users to match card pairs while tracking moves, time, and score, providing an engaging and user-friendly gaming experience.
